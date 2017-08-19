@@ -1,0 +1,32 @@
+{
+  "name": "ful-node-utils",
+  "version": "1.0.0",
+  "description": "Ful Nodejs Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/snakeful/ful-node-utils.git"
+  },
+  "keywords": [
+    "ful",
+    "node",
+    "nodejs",
+    "utils"
+  ],
+  "author": "Carlos Ful <fulblind@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snakeful/ful-node-utils/issues"
+  },
+  "homepage": "https://github.com/snakeful/ful-node-utils#readme",
+  "dependencies": {
+    "atob": "^2.0.3",
+    "btoa": "^1.1.2",
+    "crypto": "^1.0.1",
+    "numeral": "^2.0.6",
+    "unirest": "^0.5.1"
+  }
+}
